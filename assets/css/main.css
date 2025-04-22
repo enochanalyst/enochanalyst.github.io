@@ -41,9 +41,10 @@ blockquote, q {
 
     .image.object img {
       border-radius: 50%;
-      width: 100px;
-      height: 100px;
-      object-fit: cover;
+      width: 200px;
+      height: 200px;
+      object-fit: contain;
+      margin-top: 50px;
   }
 
 table {
